@@ -160,7 +160,7 @@ define('DB_NAME', 'epiz_xxxxx_workshop');           // Your database name
    - Submit and verify it works
 
 3. **Test admin panel:**
-   - Login with: `admin@carworkshop.com` / `admin123`
+   - Login with: `admin@carworkshop.com` / `password`
    - View appointments
    - Try editing an appointment
 
@@ -187,7 +187,7 @@ After deployment, your application will be accessible at:
 
 **Admin Credentials:**
 - Email: `admin@carworkshop.com`
-- Password: `admin123`
+- Password: `password`
 
 ---
 

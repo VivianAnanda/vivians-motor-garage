@@ -1,5 +1,16 @@
 # Car Workshop Appointment System
 
+## 🌐 Live Demo
+
+**🚀 [View Live Site](http://vivian-motor-garage.infinityfree.me/welcome.html)**
+
+- **User Booking Portal**: [http://vivian-motor-garage.infinityfree.me/index.php](http://vivian-motor-garage.infinityfree.me/index.php)
+- **Admin Panel**: [http://vivian-motor-garage.infinityfree.me/admin_login.php](http://vivian-motor-garage.infinityfree.me/admin_login.php)
+  - Email: `admin@carworkshop.com`
+  - Password: `password`
+
+---
+
 ## 📋 Project Overview
 
 A complete web-based appointment management system for a car workshop built with PHP, MySQL, HTML, CSS, and JavaScript. The system allows clients to book appointments with their preferred mechanics and enables administrators to manage all appointments efficiently.
