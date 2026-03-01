@@ -1,0 +1,22 @@
+# IDE and Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Database credentials (if you want to keep config.php private)
+# config.php
+
+# XAMPP/Server specific
+error_log
+php_errors.log
